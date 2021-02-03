@@ -1,0 +1,3 @@
+A .gitignore file is a plain text file where each line contains a pattern for files/directories to ignore. 
+Generally, this is placed in the root folder of the repository, and that's what I recommend.
+However, you can put it in any folder in the repository and you can also have multiple .gitignore files.
